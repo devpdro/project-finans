@@ -1,24 +1,23 @@
-# Foddies 🍽️
-![Alt text](images/readme/post1.png)
-You can access it with this [link.](https://projeto-food-two.vercel.app/)
+# Finans 💰
+![Alt text](imagens/readme/post1.png)
+You can access it with this [link.](https://marvelous-monstera-96229f.netlify.app/)
 # 💻 About the project 
-
-O projeto Finans foi desenvolvido a um bom tempo, possui um layout estático e visualmente agradável. Com gráficos e cores harmoniosas, criei esse projeto com o intuito de aprimorar minhas habilidades na tecnologia Bootstrap.
+The Finans project was developed a long time ago, has a static and visually pleasing layout. With harmonious graphics and colors, I created this project in order to improve my skills in Bootstrap technology.
 # 🚀 Technologies 
-Foddies was developed using the following technologies:
+Finans was developed using the following technologies:
 
 - HTML5
 - CSS3
 - BootStrap
-- Vercel
+- Netlify
 # 🛠️ How to install the project and run it on your machine
 To install and run the project, follow the steps below:
 
 - Clone this repository to your local environment:
 ```bash
-git clone https://github.com/devpdro/projeto-food.git
+git clone https://github.com/devpdro/project-finans.git
 ```
 - Navigate to the project directory:
 ```bash
-cd projeto-food
+cd project-finans
 ```

@@ -21,3 +21,5 @@ git clone https://github.com/devpdro/project-finans.git
 ```bash
 cd project-finans
 ```
+
+Made with ❤️ by Victor Hugo 👋
